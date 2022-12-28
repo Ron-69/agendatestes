@@ -2,10 +2,9 @@
 using Agenda.DAO;
 using NUnit.Framework;
 using Agenda.Domain;
-using System.Linq;
 using AutoFixture;
 
-namespace Agenda.Dal.Test
+namespace Agenda.Dao.Test
 {
     [TestFixture]
     public class ContatosTest : BaseTest

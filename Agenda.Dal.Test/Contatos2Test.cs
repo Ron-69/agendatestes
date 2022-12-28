@@ -1,14 +1,10 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using System.Linq;
 using NUnit.Framework;
 using AutoFixture;
 using Agenda.DAO;
 using Agenda.Domain;
 
-namespace Agenda.Dal.Test
+namespace Agenda.Dao.Test
 {
     [TestFixture]
     public class Contatos2Test : BaseTest

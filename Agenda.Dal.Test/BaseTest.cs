@@ -4,7 +4,7 @@ using System.Configuration;
 using System.Data.SqlClient;
 using System.IO;
 
-namespace Agenda.Dal.Test
+namespace Agenda.Dao.Test
 {
     [TestFixture]
     public class BaseTest
